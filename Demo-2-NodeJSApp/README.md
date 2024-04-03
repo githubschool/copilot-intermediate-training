@@ -10,6 +10,13 @@ To run the app, simply run the following command:
 node app.js
 ```
 
+## Requirements
+
+- [NodeJS](https://nodejs.org/en)
+  - Check if NodeJS is installed by running `node -v` in your terminal
+  - Check if NPM is installed by running `npm -v` in your terminal
+- GitHub Personal Access Token
+
 This will start the app on port 3000. You can access the app by navigating to `http://localhost:3000` in your browser.
 
 
