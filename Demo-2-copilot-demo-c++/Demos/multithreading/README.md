@@ -16,15 +16,15 @@ Although you can use any supported editor for Copilot like Visual Studio Code, V
 
 Welcome! In this starting Copilot demo for **Getting started - C++ Multithreading - Visual Studio Code**, we will create a multithreading example very quickly and iterate over this application with a few additional prompts.
 
-![Let's Begin!](/Demos/multithreading/images/jetpack.png)
+![Let's Begin!](/Demo-2-copilot-demo-c++/Demos/multithreading/images/jetpack.png)
 
 ### Step 1: Open Visual Studio Code and open GitHub Copilot Chat
 
 Open Visual Studio Code and navigate to primary location of your GitHub Copilot chat, by default it is on the right but you may have moved it somewhere else. Make sure that your GitHub Copilot is enabled and turned on. 
-![Let's Setup!](/Demos/multithreading/images/Where.png)
+![Let's Setup!](/Demo-2-copilot-demo-c++/Demos/multithreading/images/Where.png)
 
 Your Visual Studio Code should look like this. We are now ready to write some code through GitHub Copilot.
-![Ready!](/Demos/multithreading/images/Chat.png)
+![Ready!](/Demo-2-copilot-demo-c++/Demos/multithreading/images/Chat.png)
 
 ### Step 2: Ask GitHub Copilot Chat for assistance
 
@@ -42,7 +42,7 @@ You have 2 options of getting the code into your project.
 
 By clicking on the code that was generated and hovering over the top right corner, you can press the copy button to add it to your clipboard for easy pasting. Simply create the type of file you need to work with in your project and paste the generated code there.  
 
-![Copy](/Demos/multithreading/images/copy.png)
+![Copy](/Demo-2-copilot-demo-c++/Demos/multithreading/images/copy.png)
 
 For this example, if we chose Option 1 we would need to create 3 files, calculator.html, calculator.js, and calculator.css. We would then paste the 3 respective generated pieces of code from GitHub Copilot Chat into each of the files.
 
@@ -50,7 +50,7 @@ For this example, if we chose Option 1 we would need to create 3 files, calculat
 
 If you select Option 2, click into the code that was generated and hover over the top right corner once more. This time press the middle button labaled `Insert at cursor`. This pastes the generated code into whatever file was open in your project at your mouse's location.
 
-![Insert](/Demos/multithreading/images/insert.png)
+![Insert](/Demo-2-copilot-demo-c++/Demos/multithreading/images/insert.png)
 
 <details><summary>Cheat Sheet</summary>
 <p>
