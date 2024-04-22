@@ -5,7 +5,7 @@ This repo contains starter code intended for frontend web development with Copil
 First, clone the repo locally:
 
 ```
-git clone https://github.com/ps-copilot-sandbox/copilot-demo-website.git
+git clone https://github.com/githubschool/copilot-demo-website.git
 ```
 
 Then open the `index.html` file in your browser to view the webpage:
