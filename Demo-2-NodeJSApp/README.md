@@ -7,6 +7,7 @@ This is a simple NodeJS webapp that uses ExpressJS to serve a simple HTML page. 
 To run the app, simply run the following command:
 
 ```bash
+npm install
 node app.js
 ```
 
